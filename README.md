@@ -1,9 +1,1 @@
-# react
-# amplifyapp
-# amplifyapp
-# amplifyapp
-# amplifyapp
-# amplifyapp
-# henry
-# dodgers
-# dodgers
+# app
